@@ -3,7 +3,15 @@
 Hasil Tampilan 
 ![Screenshot 2024-05-13 at 00-06-05 MI Maarif Ngipik](https://github.com/prasetia21/test-website-sekolah/assets/75926777/ccdea0a2-02ba-42e8-ac55-ead63c441eb5)
 
+#Login
+
+username : admin
+
+password : admin1234
+
+
 #Database
+
 https://github.com/prasetia21/test-website-sekolah/blob/main/DB/localwp.sql
 
 #Endpoint API

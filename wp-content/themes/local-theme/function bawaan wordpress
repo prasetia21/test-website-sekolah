@@ -1,0 +1,6 @@
+<?php 
+
+bloginfo('name'); => ambil nama website dari setting > general / site title
+bloginfo('description'); => ambil tagline dari setting > general / tagline
+
+?>

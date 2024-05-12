@@ -9,7 +9,9 @@ https://github.com/prasetia21/test-website-sekolah/blob/main/DB/localwp.sql
 #Endpoint API
 
 http://localhost/localwp/wp-json/wp/v2/posts
+
 http://localhost/localwp/wp-json/wp/v2/agenda-kegiatan
+
 http://localhost/localwp/wp-json/wp/v2/prestasi
 
 
